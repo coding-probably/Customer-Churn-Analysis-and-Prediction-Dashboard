@@ -948,7 +948,7 @@ Customer Retention Insights
 
 ## Churn Analysis — Summary
 
-![Churn Analysis Summary](Images/Summary\(Dashboard\).png)
+![Churn Analysis Summary](Images/Summary_Dashboard.png)
 
 ## Churn Analysis — Prediction
 
@@ -956,7 +956,7 @@ Customer Retention Insights
 
 ## Power BI Data Model
 
-![Power BI Data Model](Images/PowerBI_Data_Model.png)
+![Power BI Data Model](Images/Refrences_Power-BI.png)
 
 ---
 
